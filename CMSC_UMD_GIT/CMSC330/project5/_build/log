@@ -1,0 +1,4 @@
+# dune exec bin/evalc.bc -- func0.c
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dune60840b.output 2> /dev/null
+$ /root/.opam/4.07.0/bin/ocamlc.opt -config > /tmp/dune794456.output

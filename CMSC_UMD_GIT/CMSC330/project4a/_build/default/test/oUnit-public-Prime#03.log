@@ -1,0 +1,12 @@
+2019-11-16T05:41:30+00:00 Prime#03 I: Start test public:2:define1.
+2019-11-16T05:41:30+00:00 Prime#03 I: Test public:2:define1 is successful.
+2019-11-16T05:41:30+00:00 Prime#03 I: End test public:2:define1.
+2019-11-16T05:41:30+00:00 Prime#03 I: Start test public:8:ifelse.
+2019-11-16T05:41:30+00:00 Prime#03 I: Test public:8:ifelse is successful.
+2019-11-16T05:41:30+00:00 Prime#03 I: End test public:8:ifelse.
+2019-11-16T05:41:30+00:00 Prime#03 I: Start test public:14:nested_while.
+2019-11-16T05:41:30+00:00 Prime#03 I: Test public:14:nested_while is successful.
+2019-11-16T05:41:30+00:00 Prime#03 I: End test public:14:nested_while.
+2019-11-16T05:41:30+00:00 Prime#03 I: Start test public:20:test_assoc1.
+2019-11-16T05:41:30+00:00 Prime#03 I: Test public:20:test_assoc1 is successful.
+2019-11-16T05:41:30+00:00 Prime#03 I: End test public:20:test_assoc1.

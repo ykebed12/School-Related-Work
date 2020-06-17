@@ -1,0 +1,15 @@
+2019-11-17T07:11:32+00:00 Prime#05 I: Start test public:4:stmt_control.
+2019-11-17T07:11:32+00:00 Prime#05 I: Test public:4:stmt_control is successful.
+2019-11-17T07:11:32+00:00 Prime#05 I: End test public:4:stmt_control.
+2019-11-17T07:11:32+00:00 Prime#05 I: Start test public:6:define_2.
+2019-11-17T07:11:32+00:00 Prime#05 I: Test public:6:define_2 is successful.
+2019-11-17T07:11:32+00:00 Prime#05 I: End test public:6:define_2.
+2019-11-17T07:11:32+00:00 Prime#05 I: Start test public:13:exp_1.
+2019-11-17T07:11:32+00:00 Prime#05 I: Test public:13:exp_1 is successful.
+2019-11-17T07:11:32+00:00 Prime#05 I: End test public:13:exp_1.
+2019-11-17T07:11:32+00:00 Prime#05 I: Start test public:22:main.
+2019-11-17T07:11:32+00:00 Prime#05 I: Test public:22:main is successful.
+2019-11-17T07:11:32+00:00 Prime#05 I: End test public:22:main.
+2019-11-17T07:11:32+00:00 Prime#05 I: Start test public:26:stmt_fail_basic.
+2019-11-17T07:11:32+00:00 Prime#05 I: Test public:26:stmt_fail_basic is successful.
+2019-11-17T07:11:32+00:00 Prime#05 I: End test public:26:stmt_fail_basic.

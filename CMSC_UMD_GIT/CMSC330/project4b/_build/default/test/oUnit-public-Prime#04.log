@@ -1,0 +1,12 @@
+2019-11-17T07:11:32+00:00 Prime#04 I: Start test public:3:stmt_basic.
+2019-11-17T07:11:32+00:00 Prime#04 I: Test public:3:stmt_basic is successful.
+2019-11-17T07:11:32+00:00 Prime#04 I: End test public:3:stmt_basic.
+2019-11-17T07:11:32+00:00 Prime#04 I: Start test public:7:assign_1.
+2019-11-17T07:11:32+00:00 Prime#04 I: Test public:7:assign_1 is successful.
+2019-11-17T07:11:32+00:00 Prime#04 I: End test public:7:assign_1.
+2019-11-17T07:11:32+00:00 Prime#04 I: Start test public:16:ifelse.
+2019-11-17T07:11:32+00:00 Prime#04 I: Test public:16:ifelse is successful.
+2019-11-17T07:11:32+00:00 Prime#04 I: End test public:16:ifelse.
+2019-11-17T07:11:32+00:00 Prime#04 I: Start test public:19:for.
+2019-11-17T07:11:32+00:00 Prime#04 I: Test public:19:for is successful.
+2019-11-17T07:11:32+00:00 Prime#04 I: End test public:19:for.

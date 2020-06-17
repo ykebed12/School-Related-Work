@@ -1,0 +1,9 @@
+2019-12-06T02:48:47+00:00 Prime#02 I: Start test public:1:func_one.
+2019-12-06T02:48:47+00:00 Prime#02 I: Test public:1:func_one is successful.
+2019-12-06T02:48:47+00:00 Prime#02 I: End test public:1:func_one.
+2019-12-06T02:48:47+00:00 Prime#02 I: Start test public:9:func_lazy_rec.
+2019-12-06T02:48:47+00:00 Prime#02 I: Test public:9:func_lazy_rec is successful.
+2019-12-06T02:48:47+00:00 Prime#02 I: End test public:9:func_lazy_rec.
+2019-12-06T02:48:47+00:00 Prime#02 I: Start test public:13:test_mixed_function.
+2019-12-06T02:48:47+00:00 Prime#02 I: Test public:13:test_mixed_function is successful.
+2019-12-06T02:48:47+00:00 Prime#02 I: End test public:13:test_mixed_function.

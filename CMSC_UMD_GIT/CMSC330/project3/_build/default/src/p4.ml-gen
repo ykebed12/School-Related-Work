@@ -1,0 +1,5 @@
+(** @canonical P4.Nfa *)
+module Nfa = P4__Nfa
+
+(** @canonical P4.Regexp *)
+module Regexp = P4__Regexp

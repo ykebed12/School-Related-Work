@@ -1,0 +1,17 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dune2ca4e1.output 2> /dev/null
+$ /root/.opam/4.07.0/bin/ocamlc.opt -config > /tmp/dunec8554b.output
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamldep.opt -modules -impl src/parser.ml) > _build/default/src/.p4a.objs/parser.ml.d
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -bin-annot -I src/.p4a.objs/byte -intf-suffix .ml -no-alias-deps -open P4a -o src/.p4a.objs/byte/p4a__Parser.cmo -c -impl src/parser.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -a -o src/p4a.cma src/.p4a.objs/byte/p4a.cmo src/.p4a.objs/byte/p4a__TokenTypes.cmo src/.p4a.objs/byte/p4a__Lexer.cmo src/.p4a.objs/byte/p4a__SmallCTypes.cmo src/.p4a.objs/byte/p4a__Utils.cmo src/.p4a.objs/byte/p4a__Parser.cmo)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -o test/student.bc -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src /root/.opam/4.07.0/lib/ocaml/str.cma src/p4a.cma /root/.opam/4.07.0/lib/ocaml/unix.cma /root/.opam/4.07.0/lib/oUnit/oUnitAdvanced.cma /root/.opam/4.07.0/lib/oUnit/oUnit.cma test/.student.eobjs/byte/student.cmo)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -o test/public.bc -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src /root/.opam/4.07.0/lib/ocaml/str.cma src/p4a.cma /root/.opam/4.07.0/lib/ocaml/unix.cma /root/.opam/4.07.0/lib/oUnit/oUnitAdvanced.cma /root/.opam/4.07.0/lib/oUnit/oUnit.cma test/.student.eobjs/byte/testUtils.cmo test/.student.eobjs/byte/public.cmo)
+$ (cd _build/default/test && ./student.bc)
+> .
+> Ran: 1 tests in: 0.11 seconds.
+> OK
+$ (cd _build/default/test && ./public.bc)
+> .......................
+> Ran: 23 tests in: 0.13 seconds.
+> OK

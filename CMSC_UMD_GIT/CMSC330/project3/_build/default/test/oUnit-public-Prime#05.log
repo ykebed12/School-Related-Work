@@ -1,0 +1,6 @@
+2019-10-23T05:05:21+00:00 Prime#05 I: Start test public:4:re_to_nfa.
+2019-10-23T05:05:21+00:00 Prime#05 I: Test public:4:re_to_nfa is successful.
+2019-10-23T05:05:21+00:00 Prime#05 I: End test public:4:re_to_nfa.
+2019-10-23T05:05:21+00:00 Prime#05 I: Start test public:6:nfa_new_states.
+2019-10-23T05:05:21+00:00 Prime#05 I: Test public:6:nfa_new_states is successful.
+2019-10-23T05:05:21+00:00 Prime#05 I: End test public:6:nfa_new_states.

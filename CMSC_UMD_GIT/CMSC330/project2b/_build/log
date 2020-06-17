@@ -1,0 +1,22 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dune900f34.output 2> /dev/null
+$ /root/.opam/4.07.0/bin/ocamlc.opt -config > /tmp/dunefa4f0b.output
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamldep.opt -modules -impl src/data.ml) > _build/default/src/.p2b.objs/data.ml.d
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -bin-annot -I src/.p2b.objs/byte -no-alias-deps -open P2b -o src/.p2b.objs/byte/p2b__Data.cmo -c -impl src/data.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -I src/.p2b.objs/byte -I src/.p2b.objs/native -intf-suffix .ml -no-alias-deps -open P2b -o src/.p2b.objs/native/p2b__Data.cmx -c -impl src/data.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -a -o src/p2b.cmxa src/.p2b.objs/native/p2b.cmx src/.p2b.objs/native/p2b__Funs.cmx src/.p2b.objs/native/p2b__Higher.cmx src/.p2b.objs/native/p2b__Data.cmx src/.p2b.objs/native/p2b__Basics.cmx)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -bin-annot -I test/.public.eobjs/byte -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src/.p2b.objs/byte -I src/.p2b.objs/native -no-alias-deps -o test/.public.eobjs/byte/student.cmo -c -impl test/student.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -bin-annot -I test/.public.eobjs/byte -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src/.p2b.objs/byte -I src/.p2b.objs/native -no-alias-deps -o test/.public.eobjs/byte/public.cmo -c -impl test/public.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -I test/.public.eobjs/byte -I test/.public.eobjs/native -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src/.p2b.objs/byte -I src/.p2b.objs/native -intf-suffix .ml -no-alias-deps -o test/.public.eobjs/native/student.cmx -c -impl test/student.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -I test/.public.eobjs/byte -I test/.public.eobjs/native -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src/.p2b.objs/byte -I src/.p2b.objs/native -intf-suffix .ml -no-alias-deps -o test/.public.eobjs/native/public.cmx -c -impl test/public.ml)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -o test/student.exe -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src src/p2b.cmxa /root/.opam/4.07.0/lib/ocaml/unix.cmxa /root/.opam/4.07.0/lib/oUnit/oUnitAdvanced.cmxa /root/.opam/4.07.0/lib/oUnit/oUnit.cmxa test/.public.eobjs/native/student.cmx)
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -o test/public.exe -I /root/.opam/4.07.0/lib/bytes -I /root/.opam/4.07.0/lib/oUnit -I src src/p2b.cmxa /root/.opam/4.07.0/lib/ocaml/unix.cmxa /root/.opam/4.07.0/lib/oUnit/oUnitAdvanced.cmxa /root/.opam/4.07.0/lib/oUnit/oUnit.cmxa test/.public.eobjs/native/public.cmx)
+$ (cd _build/default/test && ./student.exe)
+> ..
+> Ran: 2 tests in: 0.11 seconds.
+> OK
+$ (cd _build/default/test && ./public.exe)
+> ...........
+> Ran: 11 tests in: 0.17 seconds.
+> OK

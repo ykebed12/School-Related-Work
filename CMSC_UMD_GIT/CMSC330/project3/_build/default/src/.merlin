@@ -1,0 +1,8 @@
+EXCLUDE_QUERY_DIR
+B /mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project3/dep/sets
+B /root/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p4.objs/byte
+S /mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project3/dep/sets
+S /root/.opam/4.07.0/lib/ocaml
+S .
+FLG -open P4 -w -40

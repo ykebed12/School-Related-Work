@@ -1,0 +1,151 @@
+2019-12-06T02:48:47+00:00 Prime#00 I: Runner: processes
+2019-12-06T02:48:47+00:00 Prime#00 I: Chooser: simple
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration suite_name = "public"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration cache_filename = "/mnt/c/Users/yonaa/Desktop/school work/UMD/CMSC330/my_cmsc330/projects/project5/_build/default/test/oUnit-$(suite_name).cache"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration display = "true"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration results_style_1_X = "false"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration verbose = "false"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration health_check_interval = "1."
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration testdata_dir = "/mnt/c/Users/yonaa/Desktop/school work/UMD/CMSC330/my_cmsc330/projects/project5/_build/default/test/data"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration chooser = "simple"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration output_html_dir = "none"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration processes_kill_period = "5."
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration runner = "processes"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration shards = "6"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration processes_grace_period = "5."
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration log_encoding = "utf-8"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration output_junit_file = "none"
+2019-12-06T02:48:47+00:00 Prime#00 I: Configuration output_file = "/mnt/c/Users/yonaa/Desktop/school work/UMD/CMSC330/my_cmsc330/projects/project5/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2019-12-06T02:48:47+00:00 Prime#00 I: Using 6 workers maximum.
+2019-12-06T02:48:47+00:00 Prime#00 I: Starting worker number Prime#01.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#01 started.
+2019-12-06T02:48:47+00:00 Prime#00 I: Starting worker number Prime#02.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#02 started.
+2019-12-06T02:48:47+00:00 Prime#00 I: Starting worker number Prime#03.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#03 started.
+2019-12-06T02:48:47+00:00 Prime#00 I: Starting worker number Prime#04.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#04 started.
+2019-12-06T02:48:47+00:00 Prime#00 I: Starting worker number Prime#05.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#05 started.
+2019-12-06T02:48:47+00:00 Prime#00 I: Starting worker number Prime#06.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#06 started.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:5:recursive_func_eval_one, public:4:func_eval, public:3:func_parse_two, public:2:sample_file_test, public:1:func_one, public:0:func_parse_one.
+2019-12-06T02:48:47+00:00 Prime#01 I: Start test public:0:func_parse_one.
+2019-12-06T02:48:47+00:00 Prime#02 I: Start test public:1:func_one.
+2019-12-06T02:48:47+00:00 Prime#03 I: Start test public:2:sample_file_test.
+2019-12-06T02:48:47+00:00 Prime#04 I: Start test public:3:func_parse_two.
+2019-12-06T02:48:47+00:00 Prime#05 I: Start test public:4:func_eval.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:5:recursive_func_eval_one, public:4:func_eval, public:3:func_parse_two, public:2:sample_file_test, public:1:func_one, public:0:func_parse_one.
+2019-12-06T02:48:47+00:00 Prime#01 I: Test public:0:func_parse_one is successful.
+2019-12-06T02:48:47+00:00 Prime#02 I: Test public:1:func_one is successful.
+2019-12-06T02:48:47+00:00 Prime#03 I: Test public:2:sample_file_test is successful.
+2019-12-06T02:48:47+00:00 Prime#04 I: Test public:3:func_parse_two is successful.
+2019-12-06T02:48:47+00:00 Prime#05 I: Test public:4:func_eval is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:5:recursive_func_eval_one, public:4:func_eval, public:3:func_parse_two, public:2:sample_file_test, public:1:func_one, public:0:func_parse_one.
+2019-12-06T02:48:47+00:00 Prime#01 I: End test public:0:func_parse_one.
+2019-12-06T02:48:47+00:00 Prime#02 I: End test public:1:func_one.
+2019-12-06T02:48:47+00:00 Prime#03 I: End test public:2:sample_file_test.
+2019-12-06T02:48:47+00:00 Prime#04 I: End test public:3:func_parse_two.
+2019-12-06T02:48:47+00:00 Prime#05 I: End test public:4:func_eval.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:5:recursive_func_eval_one, public:4:func_eval, public:3:func_parse_two, public:2:sample_file_test, public:1:func_one, public:0:func_parse_one.
+2019-12-06T02:48:47+00:00 Prime#06 I: Start test public:5:recursive_func_eval_one.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:10:test_for_function, public:9:func_lazy_rec, public:8:func_lazy_eval_two, public:7:func_lazy_eval_one, public:6:recursive_func_eval_two, public:5:recursive_func_eval_one.
+2019-12-06T02:48:47+00:00 Prime#06 I: Test public:5:recursive_func_eval_one is successful.
+2019-12-06T02:48:47+00:00 Prime#05 I: Start test public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#04 I: Start test public:7:func_lazy_eval_one.
+2019-12-06T02:48:47+00:00 Prime#03 I: Start test public:8:func_lazy_eval_two.
+2019-12-06T02:48:47+00:00 Prime#02 I: Start test public:9:func_lazy_rec.
+2019-12-06T02:48:47+00:00 Prime#01 I: Start test public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:10:test_for_function, public:9:func_lazy_rec, public:8:func_lazy_eval_two, public:7:func_lazy_eval_one, public:6:recursive_func_eval_two, public:5:recursive_func_eval_one.
+2019-12-06T02:48:47+00:00 Prime#06 I: End test public:5:recursive_func_eval_one.
+2019-12-06T02:48:47+00:00 Prime#04 I: Test public:7:func_lazy_eval_one is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:10:test_for_function, public:9:func_lazy_rec, public:8:func_lazy_eval_two, public:7:func_lazy_eval_one, public:6:recursive_func_eval_two, public:5:recursive_func_eval_one.
+2019-12-06T02:48:47+00:00 Prime#04 I: End test public:7:func_lazy_eval_one.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:11:test_while_function, public:10:test_for_function, public:9:func_lazy_rec, public:8:func_lazy_eval_two, public:7:func_lazy_eval_one, public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#03 I: Test public:8:func_lazy_eval_two is successful.
+2019-12-06T02:48:47+00:00 Prime#02 I: Test public:9:func_lazy_rec is successful.
+2019-12-06T02:48:47+00:00 Prime#06 I: Start test public:11:test_while_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function, public:9:func_lazy_rec, public:8:func_lazy_eval_two, public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#03 I: End test public:8:func_lazy_eval_two.
+2019-12-06T02:48:47+00:00 Prime#02 I: End test public:9:func_lazy_rec.
+2019-12-06T02:48:47+00:00 Prime#04 I: Start test public:12:test_function_in_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function, public:9:func_lazy_rec, public:8:func_lazy_eval_two, public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#05 I: Test public:6:recursive_func_eval_two is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function, public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#05 I: End test public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function, public:6:recursive_func_eval_two.
+2019-12-06T02:48:47+00:00 Prime#02 I: Start test public:13:test_mixed_function.
+2019-12-06T02:48:47+00:00 Prime#03 I: Start test public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 6 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#01 I: Test public:10:test_for_function is successful.
+2019-12-06T02:48:47+00:00 Prime#06 I: Test public:11:test_while_function is successful.
+2019-12-06T02:48:47+00:00 Prime#04 I: Test public:12:test_function_in_function is successful.
+2019-12-06T02:48:47+00:00 Prime#05 I: Start test public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 6 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#01 I: End test public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#06 I: End test public:11:test_while_function.
+2019-12-06T02:48:47+00:00 Prime#04 I: End test public:12:test_function_in_function.
+2019-12-06T02:48:47+00:00 Prime#02 I: Test public:13:test_mixed_function is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 6 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 6 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function, public:12:test_function_in_function, public:11:test_while_function, public:10:test_for_function.
+2019-12-06T02:48:47+00:00 Prime#02 I: End test public:13:test_mixed_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 3 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: 3 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2, public:13:test_mixed_function.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 2 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#00 I: 2 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#03 I: Test public:14:test_mixed_function_2 is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 2 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#00 I: 2 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#03 I: End test public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 2 tests running : public:15:test_mixed_function_3, public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#00 I: 2 tests running: public:15:test_mixed_function_3, public:14:test_mixed_function_2.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 1 tests running : public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#00 I: 1 tests running: public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#05 I: Test public:15:test_mixed_function_3 is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 1 tests running : public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#00 I: 1 tests running: public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#05 I: End test public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#00 I: Still 1 tests running : public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#00 I: 1 tests running: public:15:test_mixed_function_3.
+2019-12-06T02:48:47+00:00 Prime#00 I: 0 tests running: .
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#01 has ended.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#06 has ended.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#04 has ended.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#02 has ended.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#03 has ended.
+2019-12-06T02:48:47+00:00 Prime#00 I: Worker Prime#05 has ended.
+2019-12-06T02:48:47+00:00 Prime#00 I: Used 6 worker during test execution.
+2019-12-06T02:48:47+00:00 Prime#00 I: Run 3 tests with shard Prime#05.
+2019-12-06T02:48:47+00:00 Prime#00 I: Run 2 tests with shard Prime#01.
+2019-12-06T02:48:47+00:00 Prime#00 I: Run 3 tests with shard Prime#03.
+2019-12-06T02:48:47+00:00 Prime#00 I: Run 2 tests with shard Prime#06.
+2019-12-06T02:48:47+00:00 Prime#00 I: Run 3 tests with shard Prime#04.
+2019-12-06T02:48:47+00:00 Prime#00 I: Run 3 tests with shard Prime#02.
+2019-12-06T02:48:47+00:00 Prime#00 I: ==============
+2019-12-06T02:48:47+00:00 Prime#00 I: Summary:
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:15:test_mixed_function_3 is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:14:test_mixed_function_2 is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:13:test_mixed_function is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:12:test_function_in_function is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:11:test_while_function is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:10:test_for_function is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:6:recursive_func_eval_two is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:9:func_lazy_rec is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:8:func_lazy_eval_two is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:7:func_lazy_eval_one is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:5:recursive_func_eval_one is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:4:func_eval is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:3:func_parse_two is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:2:sample_file_test is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:1:func_one is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Test public:0:func_parse_one is successful.
+2019-12-06T02:48:47+00:00 Prime#00 I: Ran: 16 tests in: 0.32 seconds.
+2019-12-06T02:48:47+00:00 Prime#00 I: Cases: 16.
+2019-12-06T02:48:47+00:00 Prime#00 I: Tried: 16.
+2019-12-06T02:48:47+00:00 Prime#00 I: Errors: 0.
+2019-12-06T02:48:47+00:00 Prime#00 I: Failures: 0.
+2019-12-06T02:48:47+00:00 Prime#00 I: Skip: 0.
+2019-12-06T02:48:47+00:00 Prime#00 I: Todo: 0.
+2019-12-06T02:48:47+00:00 Prime#00 I: Timeout: 0.

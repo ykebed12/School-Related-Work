@@ -1,0 +1,12 @@
+2019-11-16T05:41:30+00:00 Prime#01 I: Start test public:0:assign1.
+2019-11-16T05:41:30+00:00 Prime#01 I: Test public:0:assign1 is successful.
+2019-11-16T05:41:30+00:00 Prime#01 I: End test public:0:assign1.
+2019-11-16T05:41:30+00:00 Prime#01 I: Start test public:10:less.
+2019-11-16T05:41:30+00:00 Prime#01 I: Test public:10:less is successful.
+2019-11-16T05:41:30+00:00 Prime#01 I: End test public:10:less.
+2019-11-16T05:41:30+00:00 Prime#01 I: Start test public:12:nested_if.
+2019-11-16T05:41:30+00:00 Prime#01 I: Test public:12:nested_if is successful.
+2019-11-16T05:41:30+00:00 Prime#01 I: End test public:12:nested_if.
+2019-11-16T05:41:30+00:00 Prime#01 I: Start test public:18:test3.
+2019-11-16T05:41:30+00:00 Prime#01 I: Test public:18:test3 is successful.
+2019-11-16T05:41:30+00:00 Prime#01 I: End test public:18:test3.

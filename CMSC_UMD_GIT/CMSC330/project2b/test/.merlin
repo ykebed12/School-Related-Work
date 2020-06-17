@@ -1,0 +1,12 @@
+EXCLUDE_QUERY_DIR
+B /root/.opam/4.07.0/lib/bytes
+B /root/.opam/4.07.0/lib/oUnit
+B /root/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p2b.objs/byte
+B ../_build/default/test/.public.eobjs/byte
+S /root/.opam/4.07.0/lib/bytes
+S /root/.opam/4.07.0/lib/oUnit
+S /root/.opam/4.07.0/lib/ocaml
+S ../src
+S .
+FLG -w -40

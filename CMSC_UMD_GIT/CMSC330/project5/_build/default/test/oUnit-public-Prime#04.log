@@ -1,0 +1,9 @@
+2019-12-06T02:48:47+00:00 Prime#04 I: Start test public:3:func_parse_two.
+2019-12-06T02:48:47+00:00 Prime#04 I: Test public:3:func_parse_two is successful.
+2019-12-06T02:48:47+00:00 Prime#04 I: End test public:3:func_parse_two.
+2019-12-06T02:48:47+00:00 Prime#04 I: Start test public:7:func_lazy_eval_one.
+2019-12-06T02:48:47+00:00 Prime#04 I: Test public:7:func_lazy_eval_one is successful.
+2019-12-06T02:48:47+00:00 Prime#04 I: End test public:7:func_lazy_eval_one.
+2019-12-06T02:48:47+00:00 Prime#04 I: Start test public:12:test_function_in_function.
+2019-12-06T02:48:47+00:00 Prime#04 I: Test public:12:test_function_in_function is successful.
+2019-12-06T02:48:47+00:00 Prime#04 I: End test public:12:test_function_in_function.

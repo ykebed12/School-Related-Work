@@ -1,0 +1,12 @@
+2019-11-16T05:41:30+00:00 Prime#04 I: Start test public:3:equal.
+2019-11-16T05:41:30+00:00 Prime#04 I: Test public:3:equal is successful.
+2019-11-16T05:41:30+00:00 Prime#04 I: End test public:3:equal.
+2019-11-16T05:41:30+00:00 Prime#04 I: Start test public:7:if.
+2019-11-16T05:41:30+00:00 Prime#04 I: Test public:7:if is successful.
+2019-11-16T05:41:30+00:00 Prime#04 I: End test public:7:if.
+2019-11-16T05:41:30+00:00 Prime#04 I: Start test public:15:print.
+2019-11-16T05:41:30+00:00 Prime#04 I: Test public:15:print is successful.
+2019-11-16T05:41:30+00:00 Prime#04 I: End test public:15:print.
+2019-11-16T05:41:30+00:00 Prime#04 I: Start test public:19:test4.
+2019-11-16T05:41:30+00:00 Prime#04 I: Test public:19:test4 is successful.
+2019-11-16T05:41:30+00:00 Prime#04 I: End test public:19:test4.

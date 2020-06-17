@@ -1,0 +1,275 @@
+2019-09-23T03:59:17+00:00 Prime#00 I: Runner: processes
+2019-09-23T03:59:17+00:00 Prime#00 I: Chooser: simple
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration suite_name = "public"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration cache_filename = "/mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project2a/_build/default/test/oUnit-$(suite_name).cache"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration display = "true"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration results_style_1_X = "false"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration verbose = "false"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration health_check_interval = "1."
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration testdata_dir = "none"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration chooser = "simple"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration output_html_dir = "none"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration processes_kill_period = "5."
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration runner = "processes"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration shards = "6"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration processes_grace_period = "5."
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration log_encoding = "utf-8"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration output_junit_file = "none"
+2019-09-23T03:59:17+00:00 Prime#00 I: Configuration output_file = "/mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project2a/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2019-09-23T03:59:17+00:00 Prime#00 I: Using 6 workers maximum.
+2019-09-23T03:59:17+00:00 Prime#00 I: Starting worker number Prime#01.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#01 started.
+2019-09-23T03:59:17+00:00 Prime#00 I: Starting worker number Prime#02.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#02 started.
+2019-09-23T03:59:17+00:00 Prime#00 I: Starting worker number Prime#03.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#03 started.
+2019-09-23T03:59:17+00:00 Prime#00 I: Starting worker number Prime#04.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#04 started.
+2019-09-23T03:59:17+00:00 Prime#00 I: Starting worker number Prime#05.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#05 started.
+2019-09-23T03:59:17+00:00 Prime#00 I: Starting worker number Prime#06.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#06 started.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:5:equiv_frac, public:4:volume, public:3:area, public:2:abs, public:1:max_tup, public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#01 I: Start test public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#02 I: Start test public:1:max_tup.
+2019-09-23T03:59:17+00:00 Prime#03 I: Start test public:2:abs.
+2019-09-23T03:59:17+00:00 Prime#04 I: Start test public:3:area.
+2019-09-23T03:59:17+00:00 Prime#05 I: Start test public:4:volume.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:5:equiv_frac, public:4:volume, public:3:area, public:2:abs, public:1:max_tup, public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#01 E: Test public:0:rev_tup exited with an error.
+2019-09-23T03:59:17+00:00 Prime#01 E: Failure("unimplemented") in test public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#01 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#01 E: Called from file "src/basics.ml" (inlined), line 5, characters 18-42
+2019-09-23T03:59:17+00:00 Prime#01 E: Called from file "test/public.ml", line 5, characters 25-44
+2019-09-23T03:59:17+00:00 Prime#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#01 E: 
+2019-09-23T03:59:17+00:00 Prime#02 E: Test public:1:max_tup exited with an error.
+2019-09-23T03:59:17+00:00 Prime#02 E: Failure("unimplemented") in test public:1:max_tup.
+2019-09-23T03:59:17+00:00 Prime#02 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#02 E: Called from file "src/basics.ml" (inlined), line 7, characters 18-42
+2019-09-23T03:59:17+00:00 Prime#02 E: Called from file "test/public.ml", line 11, characters 17-36
+2019-09-23T03:59:17+00:00 Prime#02 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#02 E: 
+2019-09-23T03:59:17+00:00 Prime#03 E: Test public:2:abs exited with an error.
+2019-09-23T03:59:17+00:00 Prime#03 E: Failure("unimplemented") in test public:2:abs.
+2019-09-23T03:59:17+00:00 Prime#03 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "src/basics.ml" (inlined), line 9, characters 12-36
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "test/public.ml", line 15, characters 17-24
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#03 E: 
+2019-09-23T03:59:17+00:00 Prime#04 E: Test public:3:area exited with an error.
+2019-09-23T03:59:17+00:00 Prime#04 E: Failure("unimplemented") in test public:3:area.
+2019-09-23T03:59:17+00:00 Prime#04 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#04 E: Called from file "src/basics.ml" (inlined), line 11, characters 15-39
+2019-09-23T03:59:17+00:00 Prime#04 E: Called from file "test/public.ml", line 21, characters 17-37
+2019-09-23T03:59:17+00:00 Prime#04 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#04 E: 
+2019-09-23T03:59:17+00:00 Prime#05 E: Test public:4:volume exited with an error.
+2019-09-23T03:59:17+00:00 Prime#05 E: Failure("unimplemented") in test public:4:volume.
+2019-09-23T03:59:17+00:00 Prime#05 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#05 E: Called from file "src/basics.ml" (inlined), line 13, characters 17-41
+2019-09-23T03:59:17+00:00 Prime#05 E: Called from file "test/public.ml", line 27, characters 17-45
+2019-09-23T03:59:17+00:00 Prime#05 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#05 E: 
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:5:equiv_frac, public:4:volume, public:3:area, public:2:abs, public:1:max_tup, public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#01 I: End test public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#02 I: End test public:1:max_tup.
+2019-09-23T03:59:17+00:00 Prime#03 I: End test public:2:abs.
+2019-09-23T03:59:17+00:00 Prime#04 I: End test public:3:area.
+2019-09-23T03:59:17+00:00 Prime#05 I: End test public:4:volume.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:5:equiv_frac, public:4:volume, public:3:area, public:2:abs, public:1:max_tup, public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:10:len, public:9:log, public:8:tail, public:7:pow, public:6:factorial, public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#05 I: Start test public:6:factorial.
+2019-09-23T03:59:17+00:00 Prime#04 I: Start test public:7:pow.
+2019-09-23T03:59:17+00:00 Prime#03 I: Start test public:8:tail.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:10:len, public:9:log, public:8:tail, public:7:pow, public:6:factorial, public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#06 I: Start test public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#05 E: Test public:6:factorial exited with an error.
+2019-09-23T03:59:17+00:00 Prime#05 E: Failure("unimplemented") in test public:6:factorial.
+2019-09-23T03:59:17+00:00 Prime#05 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#05 E: Called from file "src/basics.ml" (inlined), line 21, characters 22-46
+2019-09-23T03:59:17+00:00 Prime#05 E: Called from file "test/public.ml", line 43, characters 17-30
+2019-09-23T03:59:17+00:00 Prime#05 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#05 E: 
+2019-09-23T03:59:17+00:00 Prime#04 E: Test public:7:pow exited with an error.
+2019-09-23T03:59:17+00:00 Prime#04 E: Failure("unimplemented") in test public:7:pow.
+2019-09-23T03:59:17+00:00 Prime#04 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#04 E: Called from file "src/basics.ml" (inlined), line 23, characters 16-40
+2019-09-23T03:59:17+00:00 Prime#04 E: Called from file "test/public.ml", line 49, characters 17-26
+2019-09-23T03:59:17+00:00 Prime#04 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#04 E: 
+2019-09-23T03:59:17+00:00 Prime#03 E: Test public:8:tail exited with an error.
+2019-09-23T03:59:17+00:00 Prime#03 E: Failure("unimplemented") in test public:8:tail.
+2019-09-23T03:59:17+00:00 Prime#03 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "src/basics.ml" (inlined), line 25, characters 21-45
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "test/public.ml", line 57, characters 17-29
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#03 E: 
+2019-09-23T03:59:17+00:00 Prime#02 I: Start test public:9:log.
+2019-09-23T03:59:17+00:00 Prime#01 I: Start test public:10:len.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:10:len, public:9:log, public:8:tail, public:7:pow, public:6:factorial, public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#06 E: Test public:5:equiv_frac exited with an error.
+2019-09-23T03:59:17+00:00 Prime#06 E: Failure("unimplemented") in test public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#06 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#06 E: Called from file "src/basics.ml" (inlined), line 15, characters 31-55
+2019-09-23T03:59:17+00:00 Prime#06 E: Called from file "test/public.ml", line 34, characters 20-46
+2019-09-23T03:59:17+00:00 Prime#06 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#06 E: 
+2019-09-23T03:59:17+00:00 Prime#05 I: End test public:6:factorial.
+2019-09-23T03:59:17+00:00 Prime#04 I: End test public:7:pow.
+2019-09-23T03:59:17+00:00 Prime#03 I: End test public:8:tail.
+2019-09-23T03:59:17+00:00 Prime#02 E: Test public:9:log exited with an error.
+2019-09-23T03:59:17+00:00 Prime#02 E: Failure("unimplemented") in test public:9:log.
+2019-09-23T03:59:17+00:00 Prime#02 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#02 E: Called from file "src/basics.ml" (inlined), line 27, characters 18-42
+2019-09-23T03:59:17+00:00 Prime#02 E: Called from file "test/public.ml", line 62, characters 17-26
+2019-09-23T03:59:17+00:00 Prime#02 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#02 E: 
+2019-09-23T03:59:17+00:00 Prime#01 E: Test public:10:len exited with an error.
+2019-09-23T03:59:17+00:00 Prime#01 E: Failure("unimplemented") in test public:10:len.
+2019-09-23T03:59:17+00:00 Prime#01 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#01 E: Called from file "src/basics.ml" (inlined), line 29, characters 16-40
+2019-09-23T03:59:17+00:00 Prime#01 E: Called from file "test/public.ml", line 67, characters 17-24
+2019-09-23T03:59:17+00:00 Prime#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#01 E: 
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:10:len, public:9:log, public:8:tail, public:7:pow, public:6:factorial, public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#06 I: End test public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#02 I: End test public:9:log.
+2019-09-23T03:59:17+00:00 Prime#01 I: End test public:10:len.
+2019-09-23T03:59:17+00:00 Prime#00 I: Still 6 tests running : public:13:scopes, public:12:var, public:11:contains, public:10:len, public:9:log, public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#00 I: 6 tests running: public:13:scopes, public:12:var, public:11:contains, public:10:len, public:9:log, public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#03 I: Start test public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#04 I: Start test public:12:var.
+2019-09-23T03:59:17+00:00 Prime#05 I: Start test public:13:scopes.
+2019-09-23T03:59:17+00:00 Prime#00 I: Still 3 tests running : public:13:scopes, public:12:var, public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#00 I: 3 tests running: public:13:scopes, public:12:var, public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#03 E: Test public:11:contains exited with an error.
+2019-09-23T03:59:17+00:00 Prime#03 E: Failure("unimplemented") in test public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#03 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "src/basics.ml" (inlined), line 31, characters 25-49
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "test/public.ml", line 73, characters 21-35
+2019-09-23T03:59:17+00:00 Prime#03 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#03 E: 
+2019-09-23T03:59:17+00:00 Prime#00 I: Still 3 tests running : public:13:scopes, public:12:var, public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#00 I: 3 tests running: public:13:scopes, public:12:var, public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#03 I: End test public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#00 I: Still 3 tests running : public:13:scopes, public:12:var, public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#00 I: 3 tests running: public:13:scopes, public:12:var, public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#04 I: Test public:12:var is successful.
+2019-09-23T03:59:17+00:00 Prime#05 I: Test public:13:scopes is successful.
+2019-09-23T03:59:17+00:00 Prime#00 I: Still 2 tests running : public:13:scopes, public:12:var.
+2019-09-23T03:59:17+00:00 Prime#00 I: 2 tests running: public:13:scopes, public:12:var.
+2019-09-23T03:59:17+00:00 Prime#04 I: End test public:12:var.
+2019-09-23T03:59:17+00:00 Prime#05 I: End test public:13:scopes.
+2019-09-23T03:59:17+00:00 Prime#00 I: Still 2 tests running : public:13:scopes, public:12:var.
+2019-09-23T03:59:17+00:00 Prime#00 I: 2 tests running: public:13:scopes, public:12:var.
+2019-09-23T03:59:17+00:00 Prime#00 I: 0 tests running: .
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#06 has ended.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#02 has ended.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#01 has ended.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#03 has ended.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#04 has ended.
+2019-09-23T03:59:17+00:00 Prime#00 I: Worker Prime#05 has ended.
+2019-09-23T03:59:17+00:00 Prime#00 I: Used 6 worker during test execution.
+2019-09-23T03:59:17+00:00 Prime#00 I: Run 3 tests with shard Prime#05.
+2019-09-23T03:59:17+00:00 Prime#00 I: Run 2 tests with shard Prime#01.
+2019-09-23T03:59:17+00:00 Prime#00 I: Run 3 tests with shard Prime#03.
+2019-09-23T03:59:17+00:00 Prime#00 I: Run 1 tests with shard Prime#06.
+2019-09-23T03:59:17+00:00 Prime#00 I: Run 3 tests with shard Prime#04.
+2019-09-23T03:59:17+00:00 Prime#00 I: Run 2 tests with shard Prime#02.
+2019-09-23T03:59:17+00:00 Prime#00 I: ==============
+2019-09-23T03:59:17+00:00 Prime#00 I: Summary:
+2019-09-23T03:59:17+00:00 Prime#00 I: Test public:13:scopes is successful.
+2019-09-23T03:59:17+00:00 Prime#00 I: Test public:12:var is successful.
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:11:contains exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:11:contains.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 31, characters 25-49
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 73, characters 21-35
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:10:len exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:10:len.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 29, characters 16-40
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 67, characters 17-24
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:9:log exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:9:log.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 27, characters 18-42
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 62, characters 17-26
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:5:equiv_frac exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:5:equiv_frac.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 15, characters 31-55
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 34, characters 20-46
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:8:tail exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:8:tail.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 25, characters 21-45
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 57, characters 17-29
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:7:pow exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:7:pow.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 23, characters 16-40
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 49, characters 17-26
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:6:factorial exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:6:factorial.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 21, characters 22-46
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 43, characters 17-30
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:4:volume exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:4:volume.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 13, characters 17-41
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 27, characters 17-45
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:3:area exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:3:area.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 11, characters 15-39
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 21, characters 17-37
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:2:abs exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:2:abs.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 9, characters 12-36
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 15, characters 17-24
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:1:max_tup exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:1:max_tup.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 7, characters 18-42
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 11, characters 17-36
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 E: Test public:0:rev_tup exited with an error.
+2019-09-23T03:59:17+00:00 Prime#00 E: Failure("unimplemented") in test public:0:rev_tup.
+2019-09-23T03:59:17+00:00 Prime#00 E: Raised at file "stdlib.ml", line 33, characters 17-33
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/basics.ml" (inlined), line 5, characters 18-42
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "test/public.ml", line 5, characters 25-44
+2019-09-23T03:59:17+00:00 Prime#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-09-23T03:59:17+00:00 Prime#00 E: 
+2019-09-23T03:59:17+00:00 Prime#00 I: Ran: 14 tests in: 0.18 seconds.
+2019-09-23T03:59:17+00:00 Prime#00 I: Cases: 14.
+2019-09-23T03:59:17+00:00 Prime#00 I: Tried: 14.
+2019-09-23T03:59:17+00:00 Prime#00 I: Errors: 12.
+2019-09-23T03:59:17+00:00 Prime#00 I: Failures: 0.
+2019-09-23T03:59:17+00:00 Prime#00 I: Skip: 0.
+2019-09-23T03:59:17+00:00 Prime#00 I: Todo: 0.
+2019-09-23T03:59:17+00:00 Prime#00 I: Timeout: 0.

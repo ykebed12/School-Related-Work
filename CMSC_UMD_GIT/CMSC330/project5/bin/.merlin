@@ -1,0 +1,8 @@
+EXCLUDE_QUERY_DIR
+B /root/.opam/4.07.0/lib/ocaml
+B ../_build/default/bin/.evalc.eobjs/byte
+B ../_build/default/src/.p5.objs/byte
+S /root/.opam/4.07.0/lib/ocaml
+S .
+S ../src
+FLG -w -40

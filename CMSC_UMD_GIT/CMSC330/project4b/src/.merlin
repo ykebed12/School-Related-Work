@@ -1,0 +1,6 @@
+EXCLUDE_QUERY_DIR
+B /root/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p4b.objs/byte
+S /root/.opam/4.07.0/lib/ocaml
+S .
+FLG -open P4b -w -40

@@ -1,0 +1,14 @@
+EXCLUDE_QUERY_DIR
+B /mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project3/dep/sets
+B /root/.opam/4.07.0/lib/bytes
+B /root/.opam/4.07.0/lib/oUnit
+B /root/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p4.objs/byte
+B ../_build/default/test/.public.eobjs/byte
+S /mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project3/dep/sets
+S /root/.opam/4.07.0/lib/bytes
+S /root/.opam/4.07.0/lib/oUnit
+S /root/.opam/4.07.0/lib/ocaml
+S ../src
+S .
+FLG -w -40

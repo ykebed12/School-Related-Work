@@ -1,0 +1,6 @@
+2019-10-23T05:05:21+00:00 Prime#04 I: Start test public:3:nfa_to_dfa.
+2019-10-23T05:05:21+00:00 Prime#04 I: Test public:3:nfa_to_dfa is successful.
+2019-10-23T05:05:21+00:00 Prime#04 I: End test public:3:nfa_to_dfa.
+2019-10-23T05:05:21+00:00 Prime#04 I: Start test public:7:nfa_new_trans.
+2019-10-23T05:05:21+00:00 Prime#04 I: Test public:7:nfa_new_trans is successful.
+2019-10-23T05:05:21+00:00 Prime#04 I: End test public:7:nfa_new_trans.

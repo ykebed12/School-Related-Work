@@ -1,0 +1,5 @@
+# dune exec bin/viz.bc
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/duneac4014.output 2> /dev/null
+$ /root/.opam/4.07.0/bin/ocamlc.opt -config > /tmp/dune8e520c.output
+$ (cd _build/default && /root/.opam/4.07.0/bin/ocamlc.opt -w -40 -g -o bin/viz.bc -I /mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project3/dep/sets -I src /root/.opam/4.07.0/lib/ocaml/str.cma /mnt/c/Users/yonaa/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/yonaa/cmsc330/projects/project3/dep/sets/sets.cma src/p4.cma bin/.viz.eobjs/byte/viz.cmo)
